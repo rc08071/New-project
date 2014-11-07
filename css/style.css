@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+@import url(estilo.css);
+
+body {
+	background: #FF8080;
+	color: #2a4626;
+	font-family:Helvetica, Arial, tahoma;		
+	font-size: 11px;
+	/* background:url(../imagenes/fondo.png)repeat;*/
+}
+.contenedor{
+	/*width: 100%;*/
+	min-height: 600px;
+	max-height: 1120px; 
+	margin-left: auto;
+	padding-top: 5px;
+	margin-right: auto;
+	width: 960px;
+	background: #909090;
+
+}
+
+.linea_gris{
+	height: auto;
+	border-top: 15px solid #6F7261;
+	border-bottom: 3px solid #151612;
+}
+
+
+
